@@ -11,3 +11,4 @@
   
   ##
  
+![Snake animation](https://github.com/lucassilvarocha/lucassilvarocha/blob/output/github-contribution-grid-snake.svg)
