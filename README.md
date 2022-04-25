@@ -1,3 +1,4 @@
+## OI, Bem-vindo(a), Eu sou [Lucas Silva](https://github.com/joaopedroalc) 👨🏻‍💻
 <div align="center">
   <a href="https://github.com/lucassilvarocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassilvarocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
